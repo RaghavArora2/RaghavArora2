@@ -1,6 +1,6 @@
 # Hey there 👋
 ### <img src="https://thumbs.gfycat.com/DeafeningShinyBeagle-size_restricted.gif" width="50"> This is Raghav Arora (Universe Annihilator) :smile:
-I am a Student perusing 3<sup>nd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
 <br>
 <br>
 <p align="center">
