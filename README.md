@@ -38,13 +38,8 @@ I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 <br/>
 <br/>
 <h2>Want to chat?! ☻</h2>
-<a href="https://twitter.com/avibedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a> &nbsp &nbsp <a href="https://www.linkedin.com/in/arshpreetsinghbedi" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /> &nbsp &nbsp </a><a href="https://www.instagram.com/avi_bedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Insta" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://twitter.com/" target="_blank" rel="nofollow"><img align="center" alt="Raghav's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a> &nbsp &nbsp <a href="https://www.linkedin.com/in/raghav-arora-136135224/" target="_blank" rel="nofollow"><img align="center" alt="Raghav's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /> &nbsp &nbsp </a><a href="https://www.instagram.com/mrraghavarora" target="_blank" rel="nofollow"><img align="center" alt="Raghav's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 <br/>
-<h2>My GitHub stats 🌟 </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&count_private=true" alt="avibedi1768" width=400px height=150px/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avibedi1768&layout=compact&theme=radical" width=400px height=150px/> <br/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
 <!-- <h3 align="left">Bored snake 🐍 having my contributions for lunch </h3>
 <br/>
 <img src="https://github.com/avibedi1768/avibedi1768/blob/output/github-contribution-grid-snake.gif"/> -->
