@@ -14,7 +14,7 @@ I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Web Dev, Design, Content Creation 
 - 😄 My pronouns are He, not Him cuz I'll never be Him 😂
-- ⚡ Fun fact: Workut to get Fit :muscle:
+- ⚡ Fun fact: Workout to get Fit :muscle:
 - 🌐 <a href="https://mastersensei1.github.io/Portfolio/">View my personal website</a>
 
 <div align="center"/>
@@ -41,7 +41,4 @@ I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://www.instagram.com/mrraghavarora" target="_blank" rel="nofollow"><img align="center" alt="Raghav's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a> &nbsp; &nbsp; 
 <a href="https://twitter.com/your_twitter_username" target="_blank" rel="nofollow"><img align="center" alt="Raghav's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a> &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/raghav-arora-136135224/" target="_blank" rel="nofollow"><img align="center" alt="Raghav's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
-<!-- <h3 align="left">Bored snake 🐍 having my contributions for lunch </h3>
-<br/>
-<img src="https://github.com/avibedi1768/avibedi1768/blob/output/github-contribution-grid-snake.gif"/> -->
 </div>
