@@ -1,6 +1,6 @@
 # Hey there 👋
 ### <img src="https://thumbs.gfycat.com/DeafeningShinyBeagle-size_restricted.gif" width="50"> This is Raghav Arora (Universe Annihilator) :smile:
-I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+I am a Student pursuing 4<sup>th</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
 <br>
 <br>
 <p align="center">
@@ -11,10 +11,9 @@ I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 - 🔭 I’m currently working on <a href="https://www.w3schools.com/whatis">Web Development</a> 
 - 🌱 I’m currently learning <a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Data Structures and Algorithms</a>
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with DSA
 - 💬 Ask me about Web Dev, Design, Content Creation 
 - 😄 My pronouns are He, not Him cuz I'll never be Him 😂
-- ⚡ Fun fact: Workout to get Fit :muscle:
+- ⚡ Fun fact: Workout to get Fit
 - 🌐 <a href="https://mastersensei1.github.io/Portfolio/">View my personal website</a>
 
 <div align="center"/>
