@@ -1,6 +1,6 @@
 # Hey there 👋
 ### <img src="https://thumbs.gfycat.com/DeafeningShinyBeagle-size_restricted.gif" width="50"> This is Raghav Arora (Universe Annihilator) :smile:
-I am a Student pursuing 4<sup>th</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+I am a Student pursuing 4<sup>th</sup> year in B-Tech Computer Science Engineering.
 <br>
 <br>
 <p align="center">
@@ -11,10 +11,9 @@ I am a Student pursuing 4<sup>th</sup> year in B-Tech Computer Science Engineeri
 - 🔭 I’m currently working on <a href="https://www.w3schools.com/whatis">Web Development</a> 
 - 🌱 I’m currently learning <a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Data Structures and Algorithms</a>
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Web Dev, Design, Content Creation 
 - 😄 My pronouns are He, not Him cuz I'll never be Him 😂
 - ⚡ Fun fact: Workout to get Fit
-- 🌐 <a href="https://mastersensei1.github.io/Portfolio/">View my personal website</a>
+- 🌐 <a href="[https://mastersensei1.github.io/Portfolio/](https://raghavaroraportfolio.netlify.app/)">View my personal website</a>
 
 <div align="center"/>
 <img width="240" height="145" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f7d9121-13fc-4486-91f8-b81de856c243/dedzs6j-3f11e3ca-2be4-4590-84b2-25cfbe04f9fb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmN2Q5MTIxLTEzZmMtNDQ4Ni05MWY4LWI4MWRlODU2YzI0M1wvZGVkenM2ai0zZjExZTNjYS0yYmU0LTQ1OTAtODRiMi0yNWNmYmUwNGY5ZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n8FnI6sWQHm97vkmDIfUUfOLTwNeObb-48904rUtHz0"></a> </div> <br/>
