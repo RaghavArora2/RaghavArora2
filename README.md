@@ -139,7 +139,7 @@
 ---
 
 <div align="center">
-  <img width="240" height="145" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f7d9121-13fc-4486-91f8-b81de856c243/dedzs6j-3f11e3ca-2be4-4590-84b2-25cfbe04f9fb.gif" />
+  <img width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Fun GIF" />
 </div>
 
 ---
