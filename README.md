@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Arora</h1>
-<h3 align="center">🚀 Final Year CSE Student | Full Stack Developer | Tech & Cybersec Enthusiast</h3>
+<h3 align="center">🚀 Final Year CSE Student | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450"/>
