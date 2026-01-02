@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raghavarora2&theme=algolia" alt="raghavarora2" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=raghavarora2&theme=algolia&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
@@ -110,16 +109,18 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavarora2&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavarora2&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavarora2&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavarora2&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavarora2&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=raghavarora2&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
